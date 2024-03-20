@@ -2,7 +2,7 @@ package idade;
 
 import java.util.Scanner;
 
-public class teste {
+public class JavaBasico {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         Integer idade;
